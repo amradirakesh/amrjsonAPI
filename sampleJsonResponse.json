@@ -1,0 +1,66 @@
+{
+	"RequestDetailsRec" : {
+		"referenceNumber" : "11111111",
+		"referenceDate" : "1443/11/16",
+		"accountID" : "111111",
+		"chargeCode" : "111111",
+		"tripType" : "RoundTrip",
+		"cabinClass" : "Economy",
+		"purposeOfVisit" : "Patient_travel_domestic",
+		"preferredLanguage" : "en"
+	},
+	"TravellerDetailsRec" : {
+		"trvellerFirstName" : "TrvlFN",
+		"trvellerMiddleName" : "TrvlMN",
+		"trvellerLastName" : "TrvlLN",
+		"trvellerFirstName_en" : "TrvlFN",
+		"trvellerMiddleName_en" : "TrvlMN",
+		"trvellerLastName_en" : "TrvlLN",
+		"trvellerEmail" : "testemail@testemail.com",
+		"trvellerMobile" : "1111111111",
+		"trvellerCtryDialCode" : "SA (+966)",
+		"trvellerDob" : "31/12/2000",
+		"trvellerNationality" : "SA",
+		"trvellerNationalIdNum" : "1111111111"
+	},
+	"DependentDetailsRec" : [ {
+		"dependentFirstName" : "DepFN1",
+		"dependentMiddleName" : "DepMN1",
+		"dependentLastName" : "DepLN1",
+		"dependentFirstName_en" : "DepFN1",
+		"dependentMiddleName_en" : "DepMN1",
+		"dependentLastName_en" : "DepLN1",
+		"dependentDateOfBirth" : "01/01/1950",
+		"dependentNationality" : "SA",
+		"dependentNationalIdNum" : "2222222222"
+		}, {
+		"dependentFirstName" : "DepFN2",
+		"dependentMiddleName" : "DepMN2",
+		"dependentLastName" : "DepLN2",
+		"dependentFirstName_en" : "DepFN2",
+		"dependentMiddleName_en" : "DepMN2",
+		"dependentLastName_en" : "DepLN2",
+		"dependentDateOfBirth" : "15/06/1990",
+		"dependentNationality" : "SA",
+		"dependentNationalIdNum" : "3333333333"
+	} ],
+	"TripDetailsRec" : [ {
+		"tripFrom" : "EAM",
+		"tripTo" : "RUH",
+		"tripDate" : "20/06/2022",
+		"tripTo_text" : "EAM",
+		"tripFrom_text" : "RUH"
+	}, {
+		"tripFrom" : "RUH",
+		"tripTo" : "EAM",
+		"tripDate" : "22/06/2022",
+		"tripTo_text" : "RUH",
+		"tripFrom_text" : "EAM"
+	} ],
+	"DocumentDetailsRec" : {
+		"toDocName" : "toDocName",
+		"toDocURL" : "https://www.google.com"
+	},
+	"lastVisitedAt" : "2022-06-15T20:45:17Z",
+	"updateCount" : 0
+}
