@@ -1,0 +1,22 @@
+{
+	"Name": {
+		"firstName": "Abcd",
+		"lastName": "Efgh"
+	},
+	"Deals": [
+		{
+			"Name": "Test Name",
+			"Total": 1200 
+		},
+		{
+			"Name": "Test Name2",
+			"Amount": 3000
+		},
+		{
+			"Name": "Test Name3",
+			"Amount": 800
+		}
+	],
+	"EntityName": "TestEntity",
+	"updateCount": 0
+}
