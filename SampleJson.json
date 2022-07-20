@@ -1,0 +1,25 @@
+{
+	"Name": {
+		"firstName": "John",
+		"lastName": "Smith"
+	},
+	"Deals": [
+		{
+			"Name": "Opportunity Name",
+			"CloseDate": "03022020",
+			"Amount": 2200
+		},
+		{
+			"Name": "Opportunity 2 Name",
+			"CloseDate": "03122020",
+			"Amount": 3000
+		},
+		{
+			"Name": "Opportunity 3 Name",
+			"CloseDate": "12062020",
+			"Amount": 800
+		}
+	],
+	"Account": "GenePoint",
+	"updateCount": 0
+}
