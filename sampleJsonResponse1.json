@@ -16,7 +16,7 @@
 "trvellerFirstName_en" : "Nala Ali",
 "trvellerMiddleName_en" : "Bakhit",
 "trvellerLastName_en" : "Hussain",
-"trvellerEmail" : "test@email@testemail.com",
+"trvellerEmail" : "testemail@testemail.com",
 "trvellerMobile" : "1111111111",
 "trvellerCtryDialCode" : "SA (+966)",
 "trvellerDob" : "01/01/1950",
@@ -30,7 +30,7 @@
 "dependentFirstName_en" : "Aisha Hassan",
 "dependentMiddleName_en" : "Yahya",
 "dependentLastName_en" : "AlNajai",
-"dependentDateOfBirth" : "01/13/1980",
+"dependentDateOfBirth" : "01/01/1980",
 "dependentNationality" : "SA",
 "dependentNationalIdNum" : "3333333333"
 } ],
