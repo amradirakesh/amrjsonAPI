@@ -49,7 +49,7 @@
 } ],
 "DocumentDetailsRec" : {
 "toDocName" : "toDocName",
-"toDocURL" : "www.google.com,
+"toDocURL" : "www.google.com",
 "authDocName" : "authDocName",
 "authDocURL" : "www.google.com",
 "dependent1DocName" : "dependent1DocName",
