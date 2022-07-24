@@ -1,0 +1,58 @@
+{
+"RequestDetailsRec" : {
+"referenceNumber" : "4380263",
+"referenceDate" : "1443/11/18",
+"accountID" : "635127",
+"chargeCode" : "635127",
+"tripType" : "RoundTrip",
+"cabinClass" : "Economy",
+"purposeOfVisit" : "Patient_travel_domestic",
+"preferredLanguage" : "en"
+},
+"TravellerDetailsRec" : {
+"trvellerFirstName" : "نالة",
+"trvellerMiddleName" : "علي بخيت",
+"trvellerLastName" : "حسين",
+"trvellerFirstName_en" : "Nala Ali",
+"trvellerMiddleName_en" : "Bakhit",
+"trvellerLastName_en" : "Hussain",
+"trvellerEmail" : "testemail@testemail.com",
+"trvellerMobile" : "1111111111",
+"trvellerCtryDialCode" : "SA (+966)",
+"trvellerDob" : "01/01/1950",
+"trvellerNationality" : "SA",
+"trvellerNationalIdNum" : "1111111111"
+},
+"DependentDetailsRec" : [ {
+"dependentFirstName" : "عايشة",
+"dependentMiddleName" : "حسن يحيى",
+"dependentLastName" : "النجعي",
+"dependentFirstName_en" : "Aisha Hassan",
+"dependentMiddleName_en" : "Yahya",
+"dependentLastName_en" : "AlNajai",
+"dependentDateOfBirth" : "01/01/1980",
+"dependentNationality" : "SA",
+"dependentNationalIdNum" : "3333333333"
+} ],
+"TripDetailsRec" : [ {
+"tripFrom" : "GIZ",
+"tripTo" : "RUH",
+"tripDate" : "01/08/2022",
+"tripTo_text" : "الریاض",
+"tripFrom_text" : "جازان"
+}, {
+"tripFrom" : "RUH",
+"tripTo" : "GIZ",
+"tripDate" : "01/08/2022",
+"tripTo_text" : "جازان",
+"tripFrom_text" : "الریاض"
+} ],
+"DocumentDetailsRec" : {
+"toDocName" : "toDocName",
+"toDocURL" : "www.google.com,
+"authDocName" : "authDocName",
+"authDocURL" : "www.google.com",
+"dependent1DocName" : "dependent1DocName",
+"dependent1DocURL" : "www.google.com"
+}
+}
